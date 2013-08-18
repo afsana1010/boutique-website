@@ -1,0 +1,290 @@
+.navigation 
+{
+	background-color: #499EF8;
+	height:50px;
+}
+
+.site_top_navigation
+{
+background: none repeat scroll 0% 0% rgb(36, 36, 36);
+background-color: rgb(36, 36, 36);
+background-image: none;
+background-repeat: repeat;
+background-attachment: scroll;
+background-position: 0% 0%;
+background-clip: border-box;
+background-origin: padding-box;
+background-size: auto auto;
+font-family: Georgia,serif;
+height: 34px;
+}
+
+.site-header 
+{
+    width: 974px;
+    height: 70px;
+    position: absolute;
+    color: rgb(51, 51, 51);
+    font-size: 1em;
+    z-index: 99;
+}
+
+.site-nav {
+    font-family: Georgia;
+    font-size: 1.1em;
+    height: 38px;
+    left: 0px;
+    position: absolute;
+    top: 80px;
+    width: 974px;
+    z-index: 98;
+}
+
+.globalBanner {
+    width: 974px;
+    border: medium none;
+    border-top-width: medium;
+	border-bottom-width: medium;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-top-color: -moz-use-text-color;
+	border-bottom-color: -moz-use-text-color;
+    overflow: hidden;
+    height: 42px;
+}
+
+.creative {
+    position: relative;
+    width: 974px;
+    overflow: hidden;
+    color: rgb(0, 0, 0);
+    padding: 10px 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.creative .main {
+	background: none repeat scroll 0% 0% rgb(36, 36, 36);
+	background-color: rgb(36, 36, 36);
+	background-repeat: repeat;
+    position: relative;
+    overflow: auto;
+    width: 972px;
+    height: 458px;
+    border: 1px solid rgb(0, 0, 0);
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: rgb(0, 0, 0);
+	border-bottom-color: rgb(0, 0, 0);
+}
+div.creative-panel {
+    padding: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+    position: relative;
+}
+
+div.content-panel {
+overflow:hidden; padding:5px 0; color:#666;
+}
+
+.creative-wrapper {
+   position : relative;
+}
+/*
+.creative .shop-bg .shop {
+	position : relative;
+	float : left;
+	width : 50%;
+	height : 100%;
+}
+*/
+.creative .shop-bg .shop-women {
+	background: url("img/topright.gif");
+	position : relative;
+	float : left;
+	width : 50%;
+	height : 100%;
+}
+
+.creative .shop-bg .shop-men {
+	background: url("img/topright.gif");
+	position : relative;
+	float : left;
+	width : 50%;
+	height : 100%;
+}
+
+.creative .shop-bg .shop a {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+    padding: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+    text-indent: -9999px;
+    background: none repeat scroll 0% 0% transparent;
+	background-color: transparent;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+}
+
+.creative a.shop, .creative .shop a, .creative .shop span 
+{
+    background: url("img/topright.gif");
+    text-transform: uppercase;
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight: bold;
+    padding-right: 12px;
+        padding-right-value: 12px;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+        -moz-text-blink: none;
+        -moz-text-decoration-color: -moz-use-text-color;
+        -moz-text-decoration-line: none;
+        -moz-text-decoration-style: solid;
+    display: inline;
+}
+
+.creative .shop-bg .shop a .shop-sprite {
+    display: block;
+    position: absolute;
+    width: 217px;
+    height: 45px;
+}
+
+#footer {
+			font-size:12px; 
+			background-color:#e2e2e2; 
+			padding-left:10px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+a 
+{ 
+color: black; 
+font-family: "Arial",Georgia,serif;
+font-style: normal;
+}
+
+a:hover 
+{ 
+color: white; 
+font-family: "Arial",Georgia,serif;
+font-style: normal;
+
+}
+.first_header_links
+{
+	float: left;
+	padding: 0px 0px 0px 100px;
+    padding-top: 0px;
+    padding-right-value: 0px;
+    padding-bottom: 0px;
+    padding-left-value: 100px;
+}
+
+.header_links
+{
+	float: left;
+	padding: 0px 0px 0px 25px;
+    padding-top: 0px;
+    padding-right-value: 0px;
+    padding-bottom: 0px;
+    padding-left-value: 25px;
+}
+
+.site_header
+{
+	width: 974px;
+	height: 70px;
+	position: absolute;
+	top: 5px;
+	color: rgb(51, 51, 51);
+	font-size: 1em;
+	z-index: 99;
+}
+
+.site_logo
+{
+	background: url(img/toplogo.gif);
+	height:50px;
+	width:150px;
+}
+.middle_layer 
+{
+	background: url(img/topbkg.gif);
+	height:550px;
+	width:100%;
+	right;
+}
+
+#searchwrapper {
+height:50px;
+width:150px;
+/*background-image:url(img/searchbox.jpg);*/
+background-repeat:no-repeat; /*important*/
+padding:0px;
+margin:0px;
+position:relative; /*important*/
+float: left;
+padding: 0px 0px 0px 35px;
+padding-top: 47px;
+padding-right-value: 0px;
+padding-bottom: 0px;
+padding-left-value: 35px;
+}
+ 
+#searchwrapper form { display:inline ; }
+ 
+.searchbox {
+border-style: solid;
+border-color: rgb(153, 153, 153);
+border-width: 1px 0px 1px 1px;
+color: rgb(0, 0, 0);
+float: left;
+font-size: 1.2em;
+height: 22px;
+line-height: 22px;
+padding: 5px 0px 0px 35px
+position: relative;
+vertical-align: top;
+width: 310px;
+}
+ 
+.searchbox_submit {
+border:0px; /*important*/
+background-color:transparent; /*important*/
+position:absolute; /*important*/
+top:0px;
+left:267px;
+width:32px;
+height:41px;
+}

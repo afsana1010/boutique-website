@@ -1,0 +1,11 @@
+
+/********************************      Basic Structure      ********************************/
+.success{
+	color: green;
+}
+.error{
+	color: red;
+}
+.warning{
+	color: yellow;
+}

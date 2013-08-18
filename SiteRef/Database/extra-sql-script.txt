@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON `boutique_database` TO 'boutique'@'localhost' IDENTIFIED BY 'boutique123'

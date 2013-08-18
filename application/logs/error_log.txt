@@ -1,0 +1,129 @@
+[29-Jan-2013 09:05:28 UTC] PHP Fatal error:  Call to undefined function curl_init() in F:\wamp\www\boutique\application\models\message_model.php on line 89
+[29-Jan-2013 09:05:28 UTC] PHP Stack trace:
+[29-Jan-2013 09:05:28 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:05:28 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:05:28 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:05:28 UTC] PHP   4. Register->index() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:05:28 UTC] PHP   5. Message_model->process_sms_call() F:\wamp\www\boutique\application\controllers\register.php:106
+[29-Jan-2013 09:10:29 UTC] PHP Fatal error:  Call to undefined function curl_init() in F:\wamp\www\boutique\application\models\message_model.php on line 89
+[29-Jan-2013 09:10:29 UTC] PHP Stack trace:
+[29-Jan-2013 09:10:29 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:10:29 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:10:29 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:10:29 UTC] PHP   4. Register->index() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:10:29 UTC] PHP   5. Message_model->process_sms_call() F:\wamp\www\boutique\application\controllers\register.php:106
+[29-Jan-2013 09:32:39 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:32:39 UTC] PHP Stack trace:
+[29-Jan-2013 09:32:39 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:32:39 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:32:39 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:32:39 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:32:39 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:385
+[29-Jan-2013 09:32:39 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:32:39 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[29-Jan-2013 09:39:40 UTC] PHP Parse error:  syntax error, unexpected T_IS_EQUAL, expecting ')' in F:\wamp\www\boutique\application\controllers\member.php on line 354
+[29-Jan-2013 09:39:40 UTC] PHP Stack trace:
+[29-Jan-2013 09:39:40 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:39:40 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:42:11 UTC] PHP Parse error:  syntax error, unexpected T_IS_EQUAL, expecting ')' in F:\wamp\www\boutique\application\controllers\member.php on line 354
+[29-Jan-2013 09:42:11 UTC] PHP Stack trace:
+[29-Jan-2013 09:42:11 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:42:11 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:42:37 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in F:\wamp\www\boutique\application\controllers\member.php on line 431
+[29-Jan-2013 09:42:37 UTC] PHP Stack trace:
+[29-Jan-2013 09:42:37 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:42:37 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:42:57 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:42:57 UTC] PHP Stack trace:
+[29-Jan-2013 09:42:57 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:42:57 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:42:57 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:42:57 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:42:57 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:435
+[29-Jan-2013 09:42:57 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:42:57 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[29-Jan-2013 09:43:39 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:43:39 UTC] PHP Stack trace:
+[29-Jan-2013 09:43:39 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:43:39 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:43:39 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:39 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:39 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:435
+[29-Jan-2013 09:43:39 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:43:39 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[29-Jan-2013 09:43:41 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:43:41 UTC] PHP Stack trace:
+[29-Jan-2013 09:43:41 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:43:41 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:43:41 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:41 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:41 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:435
+[29-Jan-2013 09:43:41 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:43:41 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[29-Jan-2013 09:43:57 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:43:57 UTC] PHP Stack trace:
+[29-Jan-2013 09:43:57 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:43:57 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:43:57 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:58 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:43:58 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:435
+[29-Jan-2013 09:43:58 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:43:58 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[29-Jan-2013 09:44:25 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in F:\wamp\www\boutique\application\views\front_end\register\member_profile_page.php on line 3
+[29-Jan-2013 09:44:25 UTC] PHP Stack trace:
+[29-Jan-2013 09:44:25 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[29-Jan-2013 09:44:25 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
+[29-Jan-2013 09:44:25 UTC] PHP   3. call_user_func_array() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:44:25 UTC] PHP   4. Member->member_profile_page() F:\wamp\www\boutique\system\core\CodeIgniter.php:359
+[29-Jan-2013 09:44:25 UTC] PHP   5. CI_Template->write_view() F:\wamp\www\boutique\application\controllers\member.php:435
+[29-Jan-2013 09:44:25 UTC] PHP   6. CI_Loader->view() F:\wamp\www\boutique\application\libraries\Template.php:373
+[29-Jan-2013 09:44:25 UTC] PHP   7. CI_Loader->_ci_load() F:\wamp\www\boutique\system\core\Loader.php:419
+[07-Mar-2013 17:50:04 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\Project\wamp\www\boutique\application\views\product\manage.php on line 147
+[07-Mar-2013 17:50:04 UTC] PHP Stack trace:
+[07-Mar-2013 17:50:04 UTC] PHP   1. {main}() E:\Project\wamp\www\boutique\index.php:0
+[07-Mar-2013 17:50:04 UTC] PHP   2. require_once() E:\Project\wamp\www\boutique\index.php:208
+[07-Mar-2013 17:50:04 UTC] PHP   3. call_user_func_array() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:50:04 UTC] PHP   4. Product->manage() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:50:04 UTC] PHP   5. CI_Template->write_view() E:\Project\wamp\www\boutique\application\controllers\product.php:149
+[07-Mar-2013 17:50:04 UTC] PHP   6. CI_Loader->view() E:\Project\wamp\www\boutique\application\libraries\Template.php:373
+[07-Mar-2013 17:50:04 UTC] PHP   7. CI_Loader->_ci_load() E:\Project\wamp\www\boutique\system\core\Loader.php:419
+[07-Mar-2013 17:50:39 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\Project\wamp\www\boutique\application\views\product\manage.php on line 147
+[07-Mar-2013 17:50:39 UTC] PHP Stack trace:
+[07-Mar-2013 17:50:39 UTC] PHP   1. {main}() E:\Project\wamp\www\boutique\index.php:0
+[07-Mar-2013 17:50:39 UTC] PHP   2. require_once() E:\Project\wamp\www\boutique\index.php:208
+[07-Mar-2013 17:50:39 UTC] PHP   3. call_user_func_array() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:50:39 UTC] PHP   4. Product->manage() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:50:39 UTC] PHP   5. CI_Template->write_view() E:\Project\wamp\www\boutique\application\controllers\product.php:149
+[07-Mar-2013 17:50:39 UTC] PHP   6. CI_Loader->view() E:\Project\wamp\www\boutique\application\libraries\Template.php:373
+[07-Mar-2013 17:50:39 UTC] PHP   7. CI_Loader->_ci_load() E:\Project\wamp\www\boutique\system\core\Loader.php:419
+[07-Mar-2013 17:52:00 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\Project\wamp\www\boutique\application\views\product\manage.php on line 150
+[07-Mar-2013 17:52:00 UTC] PHP Stack trace:
+[07-Mar-2013 17:52:00 UTC] PHP   1. {main}() E:\Project\wamp\www\boutique\index.php:0
+[07-Mar-2013 17:52:00 UTC] PHP   2. require_once() E:\Project\wamp\www\boutique\index.php:208
+[07-Mar-2013 17:52:00 UTC] PHP   3. call_user_func_array() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:00 UTC] PHP   4. Product->manage() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:00 UTC] PHP   5. CI_Template->write_view() E:\Project\wamp\www\boutique\application\controllers\product.php:149
+[07-Mar-2013 17:52:00 UTC] PHP   6. CI_Loader->view() E:\Project\wamp\www\boutique\application\libraries\Template.php:373
+[07-Mar-2013 17:52:00 UTC] PHP   7. CI_Loader->_ci_load() E:\Project\wamp\www\boutique\system\core\Loader.php:419
+[07-Mar-2013 17:52:03 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\Project\wamp\www\boutique\application\views\product\manage.php on line 150
+[07-Mar-2013 17:52:03 UTC] PHP Stack trace:
+[07-Mar-2013 17:52:03 UTC] PHP   1. {main}() E:\Project\wamp\www\boutique\index.php:0
+[07-Mar-2013 17:52:03 UTC] PHP   2. require_once() E:\Project\wamp\www\boutique\index.php:208
+[07-Mar-2013 17:52:03 UTC] PHP   3. call_user_func_array() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:03 UTC] PHP   4. Product->manage() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:03 UTC] PHP   5. CI_Template->write_view() E:\Project\wamp\www\boutique\application\controllers\product.php:149
+[07-Mar-2013 17:52:03 UTC] PHP   6. CI_Loader->view() E:\Project\wamp\www\boutique\application\libraries\Template.php:373
+[07-Mar-2013 17:52:03 UTC] PHP   7. CI_Loader->_ci_load() E:\Project\wamp\www\boutique\system\core\Loader.php:419
+[07-Mar-2013 17:52:29 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\Project\wamp\www\boutique\application\views\product\manage.php on line 153
+[07-Mar-2013 17:52:29 UTC] PHP Stack trace:
+[07-Mar-2013 17:52:29 UTC] PHP   1. {main}() E:\Project\wamp\www\boutique\index.php:0
+[07-Mar-2013 17:52:29 UTC] PHP   2. require_once() E:\Project\wamp\www\boutique\index.php:208
+[07-Mar-2013 17:52:29 UTC] PHP   3. call_user_func_array() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:29 UTC] PHP   4. Product->manage() E:\Project\wamp\www\boutique\system\core\CodeIgniter.php:359
+[07-Mar-2013 17:52:29 UTC] PHP   5. CI_Template->write_view() E:\Project\wamp\www\boutique\application\controllers\product.php:149
+[07-Mar-2013 17:52:29 UTC] PHP   6. CI_Loader->view() E:\Project\wamp\www\boutique\application\libraries\Template.php:373
+[07-Mar-2013 17:52:29 UTC] PHP   7. CI_Loader->_ci_load() E:\Project\wamp\www\boutique\system\core\Loader.php:419
+[10-Mar-2013 05:31:44 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\wamp\www\boutique\application\controllers\product.php on line 124
+[10-Mar-2013 05:31:44 UTC] PHP Stack trace:
+[10-Mar-2013 05:31:44 UTC] PHP   1. {main}() F:\wamp\www\boutique\index.php:0
+[10-Mar-2013 05:31:44 UTC] PHP   2. require_once() F:\wamp\www\boutique\index.php:208
