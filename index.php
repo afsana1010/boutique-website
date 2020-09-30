@@ -207,5 +207,5 @@ error_reporting(E_ALL);
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 
-/* End of file index.php */
+/* End of the file index.php */
 /* Location: ./index.php */
