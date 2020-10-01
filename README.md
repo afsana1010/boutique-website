@@ -1,4 +1,4 @@
-boutique-website
+boutique-website for beginners 
 ================
 
 Restore Database:
