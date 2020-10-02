@@ -16,3 +16,4 @@ Open a browser
 http://localhost/boutique-website/
 
 site will enable.
+If you have any problem about code or find an error in our code please send a pull request or comment below.
